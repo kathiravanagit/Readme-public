@@ -16,7 +16,7 @@ ASpiring Software
 
 
 ### 💻 Workspace Spec
- <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+ <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 ![Kathiravan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kathiravanagit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
