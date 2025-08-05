@@ -16,9 +16,10 @@ ASpiring Software
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+ <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 [![Kathiravan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kathiravanagit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 [![kathiravana's LeetCode Stats](https://coding-profile.vercel.app/api?username=kathiravana&theme=Dark)](https://github.com/Pranshu321/coding-profiles)
 
 [![Kathiravan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kathiravanagit&bg_color=0d0c0d&color=f8f7f8&line=1174df&point=e2d5d5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
