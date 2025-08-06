@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="your_typing_animation.gif" alt="Hi there 👋 It's me Kathiravan" />
-</p>
+h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Kathiravan" />
+</h1>
 
 Aspiring Software Developer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
