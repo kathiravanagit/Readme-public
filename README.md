@@ -1,8 +1,11 @@
-## Hi there 👋 It's me Kathiravan
+<p align="center">
+  <img src="your_typing_animation.gif" alt="Hi there 👋 It's me Kathiravan" />
+</p>
 
 Aspiring Software Developer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://portfolio-w97z.vercel.app/)                                                 
+- 🔭 Here's my [Portfolio](https://portfolio-w97z.vercel.app/)
+- 📄 Here's my [Resume](https://shorturl.at/24Baz)                                            
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
 - ⚡ Fun fact: I am currently Japanese.
 - Social Presence
@@ -16,7 +19,7 @@ Aspiring Software Developer
 
 
 ### 💻 Workspace Spec
- <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_5500u with Radeon Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+ <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_5500u-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 ![Kathiravan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kathiravanagit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
