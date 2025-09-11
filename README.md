@@ -23,6 +23,6 @@ Aspiring Software Developer
 
 ![Kathiravan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kathiravanagit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kathiravana?theme=nord&font=DM%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kathiravana?theme=dark&font=DM%20Mono&ext=heatmap)
 
 ![Kathiravan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kathiravanagit&bg_color=000000&color=ffffff&line=0663f9&point=ffffff&area=true&hide_border=true)
